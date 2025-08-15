@@ -3,7 +3,7 @@ credentials.json
 .env
 
 # Ignorar diretórios e arquivos de cache
-.cache/
+.cache
 
 # Ignorar arquivos compilados e temporários
 *.pyc
