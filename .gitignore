@@ -1,0 +1,10 @@
+# Ignorar credenciais
+credentials.json
+.env
+
+# Ignorar diretórios e arquivos de cache
+.cache/
+
+# Ignorar arquivos compilados e temporários
+*.pyc
+__pycache__/
